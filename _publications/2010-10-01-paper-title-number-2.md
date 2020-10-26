@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number Cavallo"
+title: "Predicting Emoji Exploiting Multimodal Data: FBK Participation in ITAmoji Task"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/publ2
+date: 2018-12-03
+venue: 'EVALITA 2018 Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian'
+paperurl: 'http://gzaragit.github.io/files/publ2.pdf'
+citation: 'Coman, A.C., Nechaev, Y., & Zara, G. (2018). Predicting Emoji Exploiting Multimodal Data: FBK Participation in ITAmoji Task. EVALITA@CLiC-it.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://ceur-ws.org/Vol-2263/paper021.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Coman, A.C., Nechaev, Y., & Zara, G. (2018). Predicting Emoji Exploiting Multimodal Data: FBK Participation in ITAmoji Task. EVALITA@CLiC-it.

@@ -1,7 +1,7 @@
 ---
 title: "Exploiting Deep Neural Networks for Tweet-based Emoji Prediction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/publ1
 date: 2018-11-11
 venue: 'International Workshop on Semantic Evaluation'
 paperurl: 'http://gzaragit.github.io/files/publ1.pdf'
