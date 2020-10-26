@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<br\><br\>
+
+
+
+
+
 
 I was born in Genova (Italy) in 1995, and I moved to Rome with my family when I was 3 years old. After Primary and Secondary school, I attended scientific High School at [Liceo Scientifico Morgagni](https://www.liceomorgagni.edu.it/) in Rome, obtaining my degree in 2014. I then moved to northern Italy, where I obtained my Bachelor Degree in Computer Science and my Master Degree in Data Science at the [University of Trento](https://www.unitn.it/), respectively in 2018 and 2019. 
 
