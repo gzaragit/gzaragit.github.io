@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My Curriculum Vitae
+
 Education
 ======
 * Liceo Scientifico Morgagni, 2009-2014
